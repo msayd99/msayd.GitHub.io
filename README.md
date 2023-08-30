@@ -1,4 +1,9 @@
 ## Momtaza Sayd
 
 # [BDA/GEOG 594 Web-Exercise 1](https://sdsu.instructure.com/courses/141078/assignments/1009767)
-## Create a GitHub Website
+## Lab 1
+
+I chose to use a dataset that exist in the [data.gov](https://catalog.data.gov/dataset) website. Specifically, I am using the dataset of the [US Electricity Utility Companies and Rates](https://catalog.data.gov/dataset/u-s-electric-utility-companies-and-rates-look-up-by-zipcode-2020). This specific dataset caught my attention because it contains dataset of rates of electricity throughout the US. The electric rates were found down to each Zip code area. This gives users that want to analyze this data specific in each Zip code of a city. It allows the comparison of rates of different zip code in within a city. Determine if rates are increased due to the population of city. It can also be used companies that use eco-friendly energy sources to advertise their products to consumers in regards their high electric rates. 
+
+I chose [The Promise and Peril of Big Data](https://www.aspeninstitute.org/wp-content/uploads/files/content/docs/pubs/The_Promise_and_Peril_of_Big_Data.pdf) book by David Bollier, Rapporteur from the Aspen Institute. From the name this book discuses that advantages and disadvantages of big data, data science, machine learning, and AI. The book discuses that evolution that been made of computer and the internet. Bollier repeatedly stresses how it has allowed more interconnectedness in the world. However, at time and innovation progress, there are question to be addressed to where the line of privacy and ethics is. I chose this book as it is reader friendly. An individual with no data background can understand with the author is talking about. They can gain an understanding about data and progress made due to it. However, the author does not shy way in describe in the type of misuse that arise from big data. 
+
